@@ -1,73 +1,49 @@
-# 📊 HR Analytics Dashboard – Workforce Insights  
+# 📊 HR Analytics Dashboard – Employee Productivity & Attendance Insights
 
-## 🚀 Overview  
-This project presents an **HR Analytics Dashboard** built using **Power BI**, analyzing workforce trends over a three-month period. The dashboard provides insights into:  
-- **Employee Presence Rate** 📅  
-- **Work-from-Home (WFH) Trends** 🏡  
-- **Sick Leave (SL) Analysis** 🤒  
-- **Daily & Monthly Attendance Patterns** 📊  
-- **Workforce Performance Insights** 📈  
-
-By leveraging **data analytics**, the dashboard helps HR teams optimize workforce management and improve productivity.
+## 🧭 Project Overview
+This **HR Analytics Dashboard** built in **Power BI** provides a comprehensive view of workforce performance and attendance trends across multiple months.  
+It transforms raw attendance and leave data into actionable insights that help HR teams monitor **presence rates, work-from-home (WFH) patterns**, and **leave utilization** — ultimately driving better workforce planning and productivity management.
 
 ---
 
-## 📌 Key Insights  
-✅ **Overall Presence Rate:** **91.83%**  
-✅ **WFH Trend:** Increased from **9.59% (Apr)** to **23.44% (Jun)**  
-✅ **Sick Leave (SL) Trend:** Increased from **0.00% (Apr)** to **5.42% (Jun)**  
-✅ **Day-Wise Attendance:**  
-   - **Highest Presence:** Monday (93.21%)  
-   - **Lowest Presence:** Friday (90.19%)  
-✅ **Day-Wise WFH:**  
-   - **Highest WFH:** Friday (13.01%)  
-   - **Lowest WFH:** Tuesday (8.11%)  
-✅ **Day-Wise Sick Leave (SL):**  
-   - **Highest SL:** Monday (1.62%)  
-   - **Lowest SL:** Friday (0.70%)  
+## 💼 Business Objective
+The goal of this project is to help HR managers and leadership teams:
+- Track employee engagement through attendance and work flexibility metrics.
+- Identify emerging patterns such as increasing WFH days or absenteeism.
+- Compare month-over-month performance to inform policy and scheduling decisions.
+- Improve workforce efficiency through data-backed interventions.
 
 ---
 
-## 📂 Dataset & Tools  
-🔹 **Data Sources:** HR Attendance Logs, Employee Records  
-🔹 **Tech Stack:** Power BI, Excel, SQL  
-🔹 **Key Metrics:** Presence %, WFH %, SL %  
+## 📊 Key Insights
+- **Average Presence Rate:** 91.8%  
+- **Average Work-from-Home (WFH) Rate:** 10%  
+- **Average Sick Leave (SL) Rate:** 1.1%  
+- **Most Active Day:** Monday (Highest presence rate)  
+- **Most Remote Day:** Friday (Highest WFH rate)  
+- **WFH Trend:** Noticeable month-over-month increase from April → June  
 
 ---
 
-## ⚙️ How to Use  
-1️⃣ **Clone the repository:**  
-   ```sh
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git
-   ```
-2️⃣ Navigate to the project folder:
-   ```sh
-  cd hr-analytics-dashboard
-   ```
-3️⃣ Open the Power BI file to explore interactive reports.
 
-## 📊 Visualizations
-🚀 Check out our interactive Power BI dashboards showcasing real-time workforce insights!
+
+## 📂 Project Components
+| File | Description |
+|------|--------------|
+| `Attendance Sheet 2022-2023.xlsx` | Raw attendance dataset used for analysis |
+| `HR Analytics Dashboard.pbix` | Power BI file containing all reports and visuals |
+| `HR Analytics of Month by Month.pdf` | Monthly attendance summary visualization |
+| `HR Analytics WFH Each Month.pdf` | Work-from-home trends and analysis |
+| `HR Analytics Overall Dashboard.pdf` | Combined insights and executive summary |
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repo, submit PRs, or open issues.
-
----
-
-🔗 Connect
-📧 Email: [Mail Me](srivenkatesh6.k@gmail.com)
-🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kedari-sri-venkatesh-359056347)
-
----
-
-⭐ Support
-If you find this project useful, don't forget to ⭐ star the repository!
-
-📌 Project Done by: **KEDARI SRI VENKATESH**
-📢 Published on **VenkateshCodes**
+## ⚙️ Dashboard Highlights
+- 📆 **Month-over-Month View:** Track presence, WFH, and SL rates for each month  
+- 📈 **Day-Level Breakdown:** Compare attendance and WFH trends by weekday  
+- 👥 **Employee-Level Metrics:** Identify individuals with high absenteeism or WFH patterns  
+- 🧠 **Actionable Recommendations:** Helps design better hybrid work policies and track compliance  
 
 
-```
-⭐ If you find this project useful, don't forget to give it a star! ⭐
+⭐ *If you found this project helpful, consider giving it a star on GitHub!* ⭐
+
