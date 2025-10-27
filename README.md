@@ -45,5 +45,4 @@ The goal of this project is to help HR managers and leadership teams:
 - 🧠 **Actionable Recommendations:** Helps design better hybrid work policies and track compliance  
 
 
-⭐ *If you found this project helpful, consider giving it a star on GitHub!* ⭐
 
